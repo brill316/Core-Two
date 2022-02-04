@@ -1,18 +1,35 @@
 h1{
     
-    color: #551c1c;
+    color: #ffffff;
     text-decoration: none;
     text-decoration: none;
-  font: normal 40px Sattint;
+  font: normal 222px Spartan;
   text-align: center; 
-  color: #551c1c
+  color: hsl(0, 0%, 100%);
+  margin: -120 px
+
   }
 h2{
     
-    color: #551c1c;
+    color: #ffffff;
     text-decoration: none;
     text-decoration: none;
-  font: normal 20px Sattint;
+  font: normal 20px Spartan;
   text-align: center; 
-  color: #551c1c
+  color: #ffffff;
   }
+
+  body {
+  margin: 1rem;
+  line-height: 1.5;
+  background-color: var(--color-bg);
+  background-color: #8a1b1b;
+    align: center;
+  background-image: url("https://media2.giphy.com/media/zKQnUF8U01I4GXN1ib/giphy.gif?cid=ecf05e47t0anqurisb1cn6mdcwvdvtqxob6smgiis3kt96ae&rid=giphy.gif&ct=g");
+  style="mix-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: center;
+  flex-direction: center;
+    background-position: center;
+  background-blend-mode: soft-light;
