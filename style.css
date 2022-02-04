@@ -11,3 +11,20 @@ a { text-decoration: none; }
       padding:10px 25px;
       border:1px solid #ccc;
       background: white; }
+
+      body {
+        margin: 1rem;
+        line-height: 1.5;
+        font-family: Triester Sans;
+        background-color: var(--color-bg);
+        background-color: #BF046B;
+        align: center;
+        background-image: url("https://c.tenor.com/24gGug50GqQAAAAC/nuke-nuclear.gif");
+        style= "mix-blend-mode: overlay;
+        background-repeat; no-repeat;
+        background-size: cover;
+        display: center;
+        flex-direction: center;
+          background-position: center;
+        background-blend-mode: soft-light;
+      } 
