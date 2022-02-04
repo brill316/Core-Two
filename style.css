@@ -3,5 +3,16 @@ h1{
     color: #551c1c;
     text-decoration: none;
     text-decoration: none;
-    font-family: Sattint;
+  font: normal 40px Sattint;
+  text-align: center; 
+  color: #551c1c
+  }
+h2{
+    
+    color: #551c1c;
+    text-decoration: none;
+    text-decoration: none;
+  font: normal 20px Sattint;
+  text-align: center; 
+  color: #551c1c
   }
