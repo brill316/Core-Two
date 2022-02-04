@@ -5,3 +5,9 @@
     --image-margin: -15rm;
     --font-family-header: "Grand Cru";
 }
+a { text-decoration: none; }
+.container {width:960px;
+      margin:0 auto;
+      padding:10px 25px;
+      border:1px solid #ccc;
+      background: white; }
