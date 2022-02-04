@@ -25,8 +25,8 @@ h2{
   background-color: var(--color-bg);
   background-color: #8a1b1b;
   background-image: url("https://media2.giphy.com/media/zKQnUF8U01I4GXN1ib/giphy.gif?cid=ecf05e47t0anqurisb1cn6mdcwvdvtqxob6smgiis3kt96ae&rid=giphy.gif&ct=g");
-  style= "mix-blend-mode: overlay;
-  background-repeat; no-repeat;
+  mix-blend-mode: overlay;
+  background-repeat: repeat-y;
   background-size: cover;
   display: center;
   flex-direction: center;
