@@ -1,32 +1,42 @@
 h1{
     
-    color: #ffffff;
-    text-decoration: none;
-    text-decoration: none;
-  font: normal 222px Neilvard Three;
-  text-align: center; 
-  color: hsl(0, 0%, 100%);
-  margin: -400 px
-
-  }
-h2{
-    
-    color: #ffffff;
-    text-decoration: none;
-    text-decoration: none;
-  font: normal 18px Neilvard Three;
-  text-align: center; 
   color: #ffffff;
-  }
-  body {
-  margin: 1rem;
-  line-height: 1.5;
-  background-color: var(--color-bg);
-  background-color: #6e1e1e;
-  background-image: url("https://media2.giphy.com/media/zKQnUF8U01I4GXN1ib/giphy.gif?cid=ecf05e47t0anqurisb1cn6mdcwvdvtqxob6smgiis3kt96ae&rid=giphy.gif&ct=g");
-  background-size: cover;
-  display: center;
-  flex-direction: center;
-    background-position: center;
-  background-blend-mode: soft-light;
-  }
+  text-decoration: none;
+  text-decoration: none;
+font: normal 222px Neilvard Three;
+text-align: center; 
+color: hsl(0, 0%, 100%);
+margin: -400 px
+
+}
+h2{
+  
+  color: #ffffff;
+  text-decoration: none;
+  text-decoration: none;
+font: normal 18px Neilvard Three;
+text-align: center; 
+color: #ffffff;
+}
+body {
+margin: 1rem;
+line-height: 1.5;
+background-color: var(--color-bg);
+background-color: #6e1e1e;
+background-image: url("https://media2.giphy.com/media/zKQnUF8U01I4GXN1ib/giphy.gif?cid=ecf05e47t0anqurisb1cn6mdcwvdvtqxob6smgiis3kt96ae&rid=giphy.gif&ct=g");
+background-size: cover;
+display: center;
+flex-direction: center;
+  background-position: center;
+background-blend-mode: soft-light;
+}
+
+h3{
+  
+  color: #ffffff;
+  text-decoration: none;
+font: normal 22px Neilvard Three;
+text-align: center; 
+color: hsl(0, 0%, 0%);
+margin: -400 px
+}
