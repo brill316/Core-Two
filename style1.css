@@ -1,6 +1,23 @@
 /* load your fonts here with @font-face */
 
+h1{
   
+  color: black;
+  text-decoration: none;
+font: normal 50px Ibm Plex Sans;
+text-align: left; 
+color: #705c68;
+} 
+
+h2{
+  
+  color: black;
+  text-decoration: none;
+  text-decoration: none;
+font: normal 18px Ibm Plex Sans;
+text-align: left; 
+color: black;
+} 
   /* css reset */
   /* Andrew will explain what this is and why you want it next class */
   html {
