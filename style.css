@@ -86,5 +86,10 @@ h8
   
   .img-hover-zoom:hover img {
     transform: scale(0.5);
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
   }
   
