@@ -73,7 +73,7 @@ text-align: center;
 color: #ffffff;
 }
 
-h5 {
+h5 
   .img-hover-zoom {
     height: 100 px; 
     overflow: hidden;
@@ -88,4 +88,3 @@ h5 {
     transform: scale(0.5);
   }
   
-}
