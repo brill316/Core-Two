@@ -74,6 +74,18 @@ color: #ffffff;
 }
 
 h5 {
-  <a href="https://google.com" class="button">Go to Google</a>
-
+  .img-hover-zoom {
+    height: 100 px; 
+    overflow: hidden;
+  }
+  
+  
+  .img-hover-zoom img {
+    transition: transform .5s ease;
+  }
+  
+  .img-hover-zoom:hover img {
+    transform: scale(0.5);
+  }
+  
 }
