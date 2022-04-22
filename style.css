@@ -86,6 +86,7 @@ h8
   
   .img-hover-zoom:hover img {
     transform: scale(0.5);
+mix-blend-mode: luminosity;
 
 
 
